@@ -6,6 +6,7 @@ dist/
 *.log
 artifacts/qa/*.webm
 artifacts/qa/*.mp4
+artifacts/qa/*.png
 node_modules/.tmp/
 tmp/
 .vercel
