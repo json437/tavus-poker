@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+artifacts/qa/*.webm
+artifacts/qa/*.mp4
+node_modules/.tmp/
+tmp/
+.vercel
